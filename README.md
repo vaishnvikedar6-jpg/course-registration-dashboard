@@ -708,23 +708,7 @@ Potential extensions for the platform include:
 
 ---
 
-## 👩‍💻 Author
 
-<div align="center">
-
-### Vaishnavi Kedar
-
-Computer Engineering · Full-Stack Development · DevOps
-
-Building reliable software through thoughtful engineering, automation, and modern development practices.
-
-[![GitHub](https://img.shields.io/badge/GitHub-vaishnvikedar6--jpg-181717?style=for-the-badge&logo=github)](https://github.com/vaishnvikedar6-jpg)
-
-</div>
-
----
-
-<div align="center">
 
 ### ✦ Engineering beyond the interface.
 
